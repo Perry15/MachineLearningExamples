@@ -1,5 +1,5 @@
 ### Esempio Regressione Polinomiale
-di GIOVANNI PERON - venerdì, 11 ottobre 2019, 19:32
+###### di GIOVANNI PERON - venerdì, 11 ottobre 2019, 19:32
  
 Ho provato a scrivere uno script con un altro dataset, applicando il metodo della regressione polinomiale.
 
