@@ -1,5 +1,5 @@
-Esempio Naive Bayes con dataset 20newsgroup
-di GIOVANNI PERON - domenica, 8 dicembre 2019, 17:51
+### Esempio Naive Bayes con dataset 20newsgroup
+###### di GIOVANNI PERON - domenica, 8 dicembre 2019, 17:51
  
 Ciao a tutti,
 
