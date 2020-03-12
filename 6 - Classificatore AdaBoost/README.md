@@ -1,5 +1,5 @@
-Classificatore AdaBoost
-di GIOVANNI PERON - giovedì, 23 gennaio 2020, 16:04
+### Classificatore AdaBoost
+###### di GIOVANNI PERON - giovedì, 23 gennaio 2020, 16:04
  
 Ciao a tutti,
 
