@@ -1,5 +1,5 @@
-Classificazione di immagini con CNN
-di GIOVANNI PERON - domenica, 19 gennaio 2020, 12:49
+### Classificazione di immagini con CNN
+###### di GIOVANNI PERON - domenica, 19 gennaio 2020, 12:49
  
 Buongiorno a tutti,
 
