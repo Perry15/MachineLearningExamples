@@ -1,3 +1,28 @@
+### Polinomial Regression example
+###### by GIOVANNI PERON - friday, 11 october 2019, 19:32
+
+I tried to write a script with another dataset, applying the polinomial regression method. 
+
+I attach the script and the used dataset found on kaggle (https://www.kaggle.com/murderaccountability/homicide-reports), and then converted into a csv file in order to obtain data adequate for the script's purpose.
+
+The script is executable through the command
+'''
+python3 PolRegExample.py <alpha>
+'''
+specifying instead of <alpha> the desidered parameter's value.
+
+You will get a chart where it will be possible to notice the behavior of the applied method when the polinomial grade changes. In particular I noticed:
+
+- increasing the polinomial's grade, it will better approximate the data trend;  
+
+- increasing alpha the curve become simplier, so the trend of simple data is approximated better, decreasing alpha the curve tend to represent also values that are out of the average but the general approximation become worst.
+
+Hoping all that could be useful, regards.
+
+Giovanni
+
+---
+
 ### Esempio Regressione Polinomiale
 ###### di GIOVANNI PERON - venerdì, 11 ottobre 2019, 19:32
  
